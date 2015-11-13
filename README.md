@@ -1,3 +1,3 @@
 # chrome-choppy-audio-demo
 
-See http://crbug.com/133206
+See http://crbug.com/555615
